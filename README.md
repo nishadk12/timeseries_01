@@ -66,11 +66,6 @@ python -m src.train_cli --csv your_data.csv --date_col date --target_col y --hor
 
 ---
 
-## ✏️ How to write it on your resume
-
-- Built an **interactive time-series forecasting app** (Streamlit) using **Auto-ARIMA / SARIMA** with configurable horizon and resampling; delivered **MAE, RMSE, MAPE** and visual diagnostics to stakeholders.
-- Implemented robust **data preprocessing** (missing-time handling, seasonal resampling, outlier clipping) and **walk-forward validation**; automated model selection via **pmdarima**.
-- Evaluated forecasts across **multiple groups** (e.g., stores/items) and exported **reproducible configs** and **saved models** for later use.
 
 ---
 
